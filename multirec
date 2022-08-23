@@ -11,7 +11,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/0eb28b55-320b-4e14-bbb2-7aa87ce6fc01..png",
           "name": "ShopDooraTest Normal",
-          "originalPrice": 2500,
+          "originalPrice": 2500
         
         },
         {
@@ -19,7 +19,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/18219a1d-b151-48d2-9e51-33278d66c6f9..jpeg",
           "name": "ShopDooraTest Promo",
-          "originalPrice": 5000,
+          "originalPrice": 5000
         
         },
         {
@@ -27,7 +27,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/206e98f0-47a3-4940-b9bd-215505013b6e..jpg",
           "name": "Skyblue Panty Liner ",
-          "originalPrice": 2700,
+          "originalPrice": 2700
         
         },
         {
@@ -35,14 +35,14 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/ef3bf39f-a274-4894-ac24-29ef2859d30d..jpg",
           "name": "Skyblue Overnight ",
-          "originalPrice": 2700,
+          "originalPrice": 2700
         },
         {
           "productId": 259,
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/4bca6276-1b74-448d-8ea6-4b758d90d485..jpg",
           "name": "Skyblue Night ",
-          "originalPrice": 2700,
+          "originalPrice": 2700
         
         },
         {
@@ -50,7 +50,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/31928330-8893-4a9a-983c-69b591d79798..jpg",
           "name": "Skyblue Day",
-          "originalPrice": 2800,
+          "originalPrice": 2800
         
         },
         {
@@ -58,7 +58,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/e6297cdc-7844-43c7-9368-7673bdd72483..jpg",
           "name": "Shuya Overnight ",
-          "originalPrice": 3800,
+          "originalPrice": 3800
         
         },
         {
@@ -66,7 +66,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/9bcec443-6888-4670-bdcb-7b76f300128a..jpg",
           "name": "Shuya Panty Liner ",
-          "originalPrice": 3600,
+          "originalPrice": 3600
         
         },
         {
@@ -74,7 +74,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/bc8a4ee3-9f28-437c-b566-6cc42cc04368..jpg",
           "name": "Shuya Night ",
-          "originalPrice": 3400,
+          "originalPrice": 3400
         
         },
         {
@@ -82,7 +82,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/70fb5b9e-1ff2-4ef0-887f-b5ecdc274c8f..jpg",
           "name": "Shuya Day",
-          "originalPrice": 3400,
+          "originalPrice": 3400
           
         }
       ]
@@ -98,7 +98,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/0212f645-c77b-4cfc-9ffb-f1dd8969d07d..jpeg",
           "name": "ShopDooraTest Test1",
-          "originalPrice": 3400,
+          "originalPrice": 3400
         
         },
         {
@@ -106,7 +106,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/76a6956e-2059-4ba3-9b3f-ccff3dea6aef..jpg",
           "name": "Ellips Dry Shampoo Breeze 200ml  ",
-          "originalPrice": 12000,
+          "originalPrice": 12000
         
         },
         {
@@ -114,15 +114,14 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/0c2cbcc0-ec8f-4170-b1a3-54c312b8c89b..jpg",
           "name": "Ellips Dry Shampoo Exotic 200ml",
-          "originalPrice": 12000,
-      
+          "originalPrice": 12000      
         },
         {
           "productId": 401,
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/3dbb3e16-3662-4693-8c3e-83a38c98037b..jpg",
           "name": "Ellips Dry shampoo Fruity 200ml",
-          "originalPrice": 12000,
+          "originalPrice": 12000
       
         },
         {
@@ -130,7 +129,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/6fe957b4-32b9-4e1d-8abd-02f4fdc0a08c..jpg",
           "name": "Ellips Dry shampoo Blossom 200ml ",
-          "originalPrice": 12000,
+          "originalPrice": 12000
         
         },
         {
@@ -138,39 +137,16 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/5fa6f528-402a-498a-86e7-0400e1db41e0..jpg",
           "name": "Ellips Hair Mask Silky Black with Pro Keratin Complex Tube 120g",
-          "originalPrice": 7600,
+          "originalPrice": 7600
         
         },
-        {
-          "productId": 395,
-          "productTypeId": 1,
-          "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/fe82337d-20f6-4c0d-9d1e-0dbeebae15e4..jpg",
-          "name": "Ellips Hair Mask Smooth & Silky with Pro Keratin Complex Tube 120g",
-          "originalPrice": 7600,
     
-        },
-        {
-          "productId": 394,
-          "productTypeId": 1,
-          "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/e415548b-52d9-44ee-8824-a5f351af1f6c..jpg",
-          "name": "Ellips Hair Mask Hair Repair with Pro Keratin Complex Tube 120g ",
-          "originalPrice": 7600,
-      
-        },
-        {
-          "productId": 393,
-          "productTypeId": 1,
-          "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/f6c9588e-2ac2-49c8-b12e-b2a913e9216b..jpg",
-          "name": "Ellips Hair Mask Volume Miracle (For fine hair and less fluffy) 4s",
-          "originalPrice": 4400,
-      
-        },
         {
           "productId": 392,
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/88ee7d88-c983-4afe-ac3b-e9238bb0458a..jpg",
           "name": "Ellips Hair Mask Smooth & Shiny (For normal hair with tendency to dull)",
-          "originalPrice": 4400,
+          "originalPrice": 4400
     
         }
       ]
@@ -186,7 +162,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/213981d1-db1d-456c-9773-fca0861e255b..jpg",
           "name": "Tracia Anti-Bacterial Nature Fresh Body Wash 1000ml",
-          "originalPrice": 8000,
+          "originalPrice": 8000
     
         },
         {
@@ -194,7 +170,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/ead92220-ca07-44f8-869f-814c7c7f43ad..jpg",
           "name": "Home Valley Cocoa Butter Body Wash 1000ml",
-          "originalPrice": 6000,
+          "originalPrice": 6000
     
         },
         {
@@ -202,63 +178,17 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/b7989096-86ea-4c70-81da-aec28262c850..jpg",
           "name": "Home Valley Orange & Grapefruit Body Wash 1000ml",
-          "originalPrice": 6000,
+          "originalPrice": 6000
       
         },
-        {
-          "productId": 52,
-          "productTypeId": 1,
-          "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/de8fd8e9-b8f8-428d-bb30-bbb2dde4c807..jpg",
-          "name": "Home Valley White Pearl Body Wash 1000ml",
-          "originalPrice": 6000,
-        
-        },
-        {
-          "productId": 51,
-          "productTypeId": 1,
-          "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/0a21cb96-163f-4bc6-8efd-83ff96c97c96..jpg",
-          "name": "Home Valley Vitamin Body Wash 1000ml",
-          "originalPrice": 6000,
-        
-        },
-        {
-          "productId": 50,
-          "productTypeId": 1,
-          "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/c3d3fdbe-e314-472f-b25b-9632e99e1791..jpg",
-          "name": "Home Valley Luxurious Body Wash 1000ml",
-          "originalPrice": 6000,
-      
-        },
-        {
-          "productId": 49,
-          "productTypeId": 1,
-          "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/027203a3-da02-43fd-be7d-73079c5bd488..jpg",
-          "name": "Home Valley Refreshing Body Wash 1000ml",
-          "originalPrice": 6000,
-        
-        },
-        {
-          "productId": 47,
-          "productTypeId": 1,
-          "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/c33de4de-bdb7-4400-91f1-ef321a16be9d..jpg",
-          "name": "Tracia Anti-Bacterial  Clean & Care Body Wash 1000ml",
-          "originalPrice": 8000,
-        
-        },
-        {
-          "productId": 46,
-          "productTypeId": 1,
-          "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/16dec118-87c4-4345-8fda-48d470767dc7..jpg",
-          "name": "Tracia Anti-Bacterial  Fresh Pine Body Wash 1000ml",
-          "originalPrice": 8000,
-      
-        },
+    
+   
         {
           "productId": 41,
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/8b18c6d9-dc19-4711-84ca-d5726705cfa5..jpg",
           "name": "Tracia Goat's Milk & Honey Shower Cream 1000ml",
-          "originalPrice": 7000,
+          "originalPrice": 7000
         
         }
       ]
@@ -274,7 +204,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/9593f86d-2f27-44c9-8fea-271f95964c21..jpg",
           "name": "Troposphere France Perfume Killer & CCOO",
-          "originalPrice": 25000,
+          "originalPrice": 25000
         
         },
         {
@@ -282,7 +212,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/1f55bf26-fffd-4559-a83c-a23755e77bef..jpg",
           "name": "Troposphere France Perfume CHAP",
-          "originalPrice": 25000,
+          "originalPrice": 25000
         
         },
         {
@@ -290,7 +220,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/316224f0-1a75-4936-b0ef-cc432c91852a..jpg",
           "name": "Troposphere France Perfume Flower Bomb ",
-          "originalPrice": 25000,
+          "originalPrice": 25000
       
         },
         {
@@ -298,7 +228,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/0b7cd8d6-6da5-4172-b714-4e7ed730bb98..jpg",
           "name": "Troposphere France Perfume Party Blossom",
-          "originalPrice": 25000,
+          "originalPrice": 25000
         
         },
         {
@@ -306,7 +236,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/d2dcc1ad-220b-4cd1-882e-4fe8f12746e8..jpg",
           "name": "Troposphere France Perfume Let's Guess",
-          "originalPrice": 25000,
+          "originalPrice": 25000
         
         },
         {
@@ -314,7 +244,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/1e7e04c5-f52e-40de-a0ef-3d514cf9e242..jpg",
           "name": "I am Not Dior",
-          "originalPrice": 25000,
+          "originalPrice": 25000
         
         },
         {
@@ -322,7 +252,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/8ef24bab-0e76-4fc8-9fa2-3ddd110a76d9..jpg",
           "name": "Troposphere France Perfume Limited Love",
-          "originalPrice": 25000,
+          "originalPrice": 25000
         
         }
       ]
@@ -338,7 +268,7 @@
           "productTypeId": 1,
           "url": "https://aws-mhsimages-bucket.s3-ap-southeast-1.amazonaws.com/sit/Shuya/images/product/26b3ddac-237f-462c-b2f7-986127a70744..jpg",
           "name": "Dua Dwei Food Supplement Syrup Box (12pcs)\n",
-          "originalPrice": 6000,
+          "originalPrice": 6000
         
         }
       ]
